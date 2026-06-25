@@ -472,7 +472,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Wiz5500 Ethernet Co-Processor + Esp32 Devboard.kicad_pro",
+    "filename": "Wiz5500-Ethernet-Esp32.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -625,11 +625,22 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
-    "used_designators": "",
+    "top_level_sheets": [
+      {
+        "filename": "Wiz5500-Ethernet-Esp32.kicad_sch",
+        "name": "Wiz5500-Ethernet-Esp32-core",
+        "uuid": "2b46a950-adb6-434b-928c-c069ab58e33e"
+      }
+    ],
+    "used_designators": "#PWR14,C4",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "2b46a950-adb6-434b-928c-c069ab58e33e",
+      "Wiz5500-Ethernet-Esp32-core"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
