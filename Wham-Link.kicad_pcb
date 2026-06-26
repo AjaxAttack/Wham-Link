@@ -7,6 +7,9 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "Wham-Link")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
@@ -174,7 +177,7 @@
 		)
 		(path "/70b04af8-28b7-4574-bfc2-42053f62bda6")
 		(sheetname "/")
-		(sheetfile "Wiz5500-Ethernet-Esp32.kicad_sch")
+		(sheetfile "Wham-Link.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -540,7 +543,7 @@
 			(uuid "516d8914-bb95-4937-99d4-a629ceb9758b")
 		)
 		(embedded_fonts no)
-		(model "/mnt/c/Users/alexs/codestuffs/AJ-PCB/Wiz5500-Ethernet-Esp32/libraries/imported-project-library/imported-project-library.3dshapes/RJ45-TH_RB1-125BAG1A.wrl"
+		(model "/mnt/c/Users/alexs/codestuffs/AJ-PCB/Wham-Link/libraries/imported-project-library/imported-project-library.3dshapes/RJ45-TH_RB1-125BAG1A.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -639,7 +642,7 @@
 		)
 		(path "/c8a816b2-550e-44b1-a322-964172e2e08a")
 		(sheetname "/")
-		(sheetfile "Wiz5500-Ethernet-Esp32.kicad_sch")
+		(sheetfile "Wham-Link.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -818,7 +821,7 @@
 			(uuid "b4887694-0b4a-4a7a-ae0c-0dcf7654632d")
 		)
 		(embedded_fonts no)
-		(model "/mnt/c/Users/alexs/codestuffs/AJ-PCB/Wiz5500-Ethernet-Esp32/libraries/imported-project-library/imported-project-library.3dshapes/SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL.wrl"
+		(model "/mnt/c/Users/alexs/codestuffs/AJ-PCB/Wham-Link/libraries/imported-project-library/imported-project-library.3dshapes/SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -917,7 +920,7 @@
 		)
 		(path "/cb473115-dab8-4b5c-a08b-8fec60a0fbaa")
 		(sheetname "/")
-		(sheetfile "Wiz5500-Ethernet-Esp32.kicad_sch")
+		(sheetfile "Wham-Link.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1496,7 +1499,7 @@
 			(uuid "adb93f03-564e-448e-a0ab-e60ed5eaa442")
 		)
 		(embedded_fonts no)
-		(model "/mnt/c/Users/alexs/codestuffs/AJ-PCB/Wiz5500-Ethernet-Esp32/libraries/imported-project-library/imported-project-library.3dshapes/WIFI-SMD_L19.2-18.0-H3.2-ESP32-WROOM-32UE.wrl"
+		(model "/mnt/c/Users/alexs/codestuffs/AJ-PCB/Wham-Link/libraries/imported-project-library/imported-project-library.3dshapes/WIFI-SMD_L19.2-18.0-H3.2-ESP32-WROOM-32UE.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1868,7 +1871,7 @@
 		)
 		(path "/b93306c8-06f4-4a65-bc5e-4ab4293be41e")
 		(sheetname "/")
-		(sheetfile "Wiz5500-Ethernet-Esp32.kicad_sch")
+		(sheetfile "Wham-Link.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2459,7 +2462,7 @@
 			(uuid "4396caa6-c6db-4d93-8a24-0bb7aaeab8ea")
 		)
 		(embedded_fonts no)
-		(model "/mnt/c/Users/alexs/codestuffs/AJ-PCB/Wiz5500-Ethernet-Esp32/libraries/imported-project-library/imported-project-library.3dshapes/LQFP-48_L7.0-W7.0-H1.4-LS9.0-P0.50.wrl"
+		(model "/mnt/c/Users/alexs/codestuffs/AJ-PCB/Wham-Link/libraries/imported-project-library/imported-project-library.3dshapes/LQFP-48_L7.0-W7.0-H1.4-LS9.0-P0.50.wrl"
 			(offset
 				(xyz 0 0 0)
 			)

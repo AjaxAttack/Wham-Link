@@ -472,7 +472,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Wiz5500-Ethernet-Esp32.kicad_pro",
+    "filename": "Wham-Link.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -627,18 +627,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Wiz5500-Ethernet-Esp32.kicad_sch",
-        "name": "Wiz5500-Ethernet-Esp32-core",
+        "filename": "Wham-Link.kicad_sch",
+        "name": "Wham-Link",
         "uuid": "2b46a950-adb6-434b-928c-c069ab58e33e"
       }
     ],
-    "used_designators": "#PWR14,C4",
+    "used_designators": "#PWR14-30,C4-10,R1-12,FB1-2",
     "variants": []
   },
   "sheets": [
     [
       "2b46a950-adb6-434b-928c-c069ab58e33e",
-      "Wiz5500-Ethernet-Esp32-core"
+      "Wham-Link"
     ]
   ],
   "text_variables": {},
