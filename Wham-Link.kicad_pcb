@@ -1018,7 +1018,7 @@
 			(uuid "d9de0275-078a-4f24-9375-429bb126ce60")
 		)
 		(embedded_fonts no)
-		(model "/mnt/c/Users/alexs/codestuffs/AJ-PCB/Wiz5500-Ethernet-Esp32/libraries/imported-project-library/imported-project-library.3dshapes/RJ45-TH_RB1-125BAG1A.wrl"
+		(model "${KIPRJMOD}/libraries/imported-project-library/imported-project-library.3dshapes/RJ45-TH_RB1-125BAG1A.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1519,7 +1519,7 @@
 			(uuid "f34a6340-06fa-411e-8a7f-780728d2fdfe")
 		)
 		(embedded_fonts no)
-		(model "/mnt/c/Users/alexs/codestuffs/AJ-PCB/Wiz5500-Ethernet-Esp32/libraries/imported-project-library/imported-project-library.3dshapes/QFN-24_L4.0-W4.0-H0.9-P0.50.wrl"
+		(model "${KIPRJMOD}/libraries/imported-project-library/imported-project-library.3dshapes/QFN-24_L4.0-W4.0-H0.9-P0.50.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3512,7 +3512,7 @@
 			(uuid "ec6dab40-153d-493e-a04e-7952d9623ef0")
 		)
 		(embedded_fonts no)
-		(model "/mnt/c/Users/alexs/codestuffs/AJ-PCB/Wiz5500-Ethernet-Esp32/libraries/imported-project-library/imported-project-library.3dshapes/OSC-SMD_4P-L2.5-W2.0-H0.6.wrl"
+		(model "${KIPRJMOD}/libraries/imported-project-library/imported-project-library.3dshapes/OSC-SMD_4P-L2.5-W2.0-H0.6.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7745,7 +7745,7 @@
 			(uuid "857eb584-6de0-439e-ad9c-6de394f351a4")
 		)
 		(embedded_fonts no)
-		(model "/mnt/c/Users/alexs/codestuffs/AJ-PCB/Wiz5500-Ethernet-Esp32/libraries/imported-project-library/imported-project-library.3dshapes/WIFI-SMD_L19.2-18.0-H3.2-ESP32-WROOM-32UE.wrl"
+		(model "${KIPRJMOD}/libraries/imported-project-library/imported-project-library.3dshapes/WIFI-SMD_L19.2-18.0-H3.2-ESP32-WROOM-32UE.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
